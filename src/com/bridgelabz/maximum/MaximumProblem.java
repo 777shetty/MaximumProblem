@@ -1,8 +1,10 @@
 package com.bridgelabz.maximum;
 
+
 public class MaximumProblem {
 	public static void main(String[] args) {
 		System.out.println("Welcome to Maximum Problem Program!");
+
 		int integerNumber1 = 1, integerNumber2 = 2, integerNumber3 = 3;		
 		System.out.println("Maximum of " + integerNumber1 + ", " + integerNumber2 + ", " + integerNumber3 + " is " + findMaximum(integerNumber1, integerNumber2, integerNumber3));
 
